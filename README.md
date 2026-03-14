@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aravind Peram 👋
 
-<!--
-**Aravindperam/Aravindperam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Engineer based in Chicago, IL — currently at Northern Trust
+securing hybrid enterprise environments across SOC, cloud, and network defense.
 
-Here are some ideas to get you started:
+## What I work on
+- 🔍  Threat detection & SOC operations — Splunk, Microsoft Sentinel, QRadar
+- ☁️  Cloud security — AWS (GuardDuty, IAM, CloudTrail), Azure (Defender, Entra ID)
+- 🔥  Network defense — Palo Alto, Fortinet, IDS/IPS, firewall governance
+- ⚙️  Security automation — Python, PowerShell, CI/CD pipeline hardening
+- 🛡️  Vulnerability management — Nessus, Qualys, MITRE ATT&CK mapping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+| Project | What it is |
+|---|---|
+| [Detection Engineering Lab](link) | Splunk & Sentinel rules mapped to MITRE ATT&CK |
+| [Cloud Security Automation](link) | Python/PowerShell scripts for AWS & Azure auditing |
+| [Home SOC Lab — ELK SIEM](link) | Virtualized SOC with Suricata IDS + attack simulations |
+
+## Tools & stack
+`Splunk` `Sentinel` `QRadar` `ELK` `Palo Alto` `CrowdStrike`
+`AWS` `Azure` `Python` `PowerShell` `Terraform` `Nessus` `Qualys`
+
+📍 Chicago, IL  •  🔗 linkedin.com/in/aravind-p04  •  📧 aravindpera26@gmail.com
