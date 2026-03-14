@@ -1,4 +1,4 @@
-# Hi, I'm Aravind Peram 👋
+# Hi, I'm Aravind 👋
 
 Cybersecurity Engineer based in Chicago, IL — currently at Northern Trust
 securing hybrid enterprise environments across SOC, cloud, and network defense.
