@@ -10,12 +10,13 @@ securing hybrid enterprise environments across SOC, cloud, and network defense.
 - ⚙️  Security automation — Python, PowerShell, CI/CD pipeline hardening
 - 🛡️  Vulnerability management — Nessus, Qualys, MITRE ATT&CK mapping
 
-## Featured projects
-| Project | What it is |
+## Featured Projects
+
+| Project | What it does |
 |---|---|
-| [Detection Engineering Lab](link) | Splunk & Sentinel rules mapped to MITRE ATT&CK |
-| [Cloud Security Automation](link) | Python/PowerShell scripts for AWS & Azure auditing |
-| [Home SOC Lab — ELK SIEM](link) | Virtualized SOC with Suricata IDS + attack simulations |
+| 📡 [detection-lab](https://github.com/Aravind-P04/detection-lab) | Splunk & Sentinel rules mapped to MITRE ATT&CK, with FP tuning notes |
+| ☁️ [cloud-security-scripts](https://github.com/Aravind-P04/cloud-security-scripts) | Python & PowerShell for AWS IAM and Azure NSG auditing |
+| 🏠 [home-soc-lab](https://github.com/Aravind-P04/home-soc-lab) | ELK Stack + Suricata IDS + Atomic Red Team simulations |
 
 ## Tools & stack
 `Splunk` `Sentinel` `QRadar` `ELK` `Palo Alto` `CrowdStrike`
